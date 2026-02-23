@@ -1,0 +1,17 @@
+{
+  "name": "peerbud-argo",
+  "version": "1.0.0",
+  "description": "Minimal Cloudflare Argo Tunnel subscription generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.4.1"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
